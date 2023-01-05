@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/switch13.ogg-9101716fd8587e27adc96d3c976a86f7.oggstr"
+
+[deps]
+
+source_file="res://audio/sounds/unused/Audio/switch13.ogg"
+dest_files=[ "res://.import/switch13.ogg-9101716fd8587e27adc96d3c976a86f7.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

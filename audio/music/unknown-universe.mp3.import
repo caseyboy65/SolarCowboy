@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/unknown-universe.mp3-61607fd3fc7176aff10ca223bf76e365.mp3str"
+
+[deps]
+
+source_file="res://audio/music/unknown-universe.mp3"
+dest_files=[ "res://.import/unknown-universe.mp3-61607fd3fc7176aff10ca223bf76e365.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

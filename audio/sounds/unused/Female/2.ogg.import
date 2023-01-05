@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/2.ogg-d852e175fed2f6871cb16c00c15bb4cd.oggstr"
+
+[deps]
+
+source_file="res://audio/sounds/unused/Female/2.ogg"
+dest_files=[ "res://.import/2.ogg-d852e175fed2f6871cb16c00c15bb4cd.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/level_up.ogg-6d54b2ac0a8bb09bb497fad1b31c4ccf.oggstr"
+
+[deps]
+
+source_file="res://audio/sounds/unused/Male/level_up.ogg"
+dest_files=[ "res://.import/level_up.ogg-6d54b2ac0a8bb09bb497fad1b31c4ccf.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

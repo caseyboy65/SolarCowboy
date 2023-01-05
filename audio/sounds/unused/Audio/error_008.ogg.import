@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/error_008.ogg-a930a9acf381aaeed2eebc3f5e4e2b57.oggstr"
+
+[deps]
+
+source_file="res://audio/sounds/unused/Audio/error_008.ogg"
+dest_files=[ "res://.import/error_008.ogg-a930a9acf381aaeed2eebc3f5e4e2b57.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

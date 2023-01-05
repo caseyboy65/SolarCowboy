@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/footstep_wood_003.ogg-dd55fdc6bf1c0ccc436c9212d8e963ad.oggstr"
+
+[deps]
+
+source_file="res://audio/sounds/unused/Audio/footstep_wood_003.ogg"
+dest_files=[ "res://.import/footstep_wood_003.ogg-dd55fdc6bf1c0ccc436c9212d8e963ad.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/2.ogg-8c7d5cf723727c038e81817bfcecf669.oggstr"
+
+[deps]
+
+source_file="res://audio/sounds/unused/Male/2.ogg"
+dest_files=[ "res://.import/2.ogg-8c7d5cf723727c038e81817bfcecf669.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/engineCircular_000.ogg-f8a227f33fa9fa8a3d1faa4ae23b2dec.oggstr"
+
+[deps]
+
+source_file="res://GameObjects/Cosmetics/ShipAudo/engineCircular_000.ogg"
+dest_files=[ "res://.import/engineCircular_000.ogg-f8a227f33fa9fa8a3d1faa4ae23b2dec.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

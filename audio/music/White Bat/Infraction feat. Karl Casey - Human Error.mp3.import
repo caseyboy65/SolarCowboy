@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Infraction feat. Karl Casey - Human Error.mp3-9fc0f86dbd43ec8251153eb438167680.mp3str"
+
+[deps]
+
+source_file="res://audio/music/White Bat/Infraction feat. Karl Casey - Human Error.mp3"
+dest_files=[ "res://.import/Infraction feat. Karl Casey - Human Error.mp3-9fc0f86dbd43ec8251153eb438167680.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

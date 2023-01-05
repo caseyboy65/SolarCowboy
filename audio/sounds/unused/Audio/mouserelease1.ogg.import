@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/mouserelease1.ogg-98ccf05461a1db67e9e66e5cc6d60b1c.oggstr"
+
+[deps]
+
+source_file="res://audio/sounds/unused/Audio/mouserelease1.ogg"
+dest_files=[ "res://.import/mouserelease1.ogg-98ccf05461a1db67e9e66e5cc6d60b1c.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

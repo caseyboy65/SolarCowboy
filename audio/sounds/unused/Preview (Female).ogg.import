@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Preview (Female).ogg-9ebad5c4fa8ae663ff54456de83b7d09.oggstr"
+
+[deps]
+
+source_file="res://audio/sounds/unused/Preview (Female).ogg"
+dest_files=[ "res://.import/Preview (Female).ogg-9ebad5c4fa8ae663ff54456de83b7d09.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

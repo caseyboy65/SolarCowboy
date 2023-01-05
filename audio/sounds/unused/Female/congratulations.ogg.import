@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/congratulations.ogg-c8155b3a0956dfdb38a1519583b31989.oggstr"
+
+[deps]
+
+source_file="res://audio/sounds/unused/Female/congratulations.ogg"
+dest_files=[ "res://.import/congratulations.ogg-c8155b3a0956dfdb38a1519583b31989.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/spacetime.mp3-4496ef1e2fd8fb4fb205c4891186b523.mp3str"
+
+[deps]
+
+source_file="res://audio/music/spacetime.mp3"
+dest_files=[ "res://.import/spacetime.mp3-4496ef1e2fd8fb4fb205c4891186b523.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

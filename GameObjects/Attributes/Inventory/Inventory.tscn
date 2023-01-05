@@ -1,0 +1,43 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://GameObjects/Attributes/Inventory/Inventory.gd" type="Script" id=1]
+
+[node name="Inventory" type="Node2D"]
+script = ExtResource( 1 )
+
+[node name="InventoryUI" type="ItemList" parent="."]
+margin_left = -275.0
+margin_top = -362.0
+margin_right = 270.0
+margin_bottom = -310.0
+grow_vertical = 0
+size_flags_horizontal = 3
+auto_height = true
+
+[node name="CurrentSizeValue" type="Label" parent="."]
+margin_left = 247.0
+margin_top = -381.0
+margin_right = 344.0
+margin_bottom = -367.0
+text = "0"
+
+[node name="CurrentSizeLabel" type="Label" parent="."]
+margin_left = 165.0
+margin_top = -380.0
+margin_right = 262.0
+margin_bottom = -366.0
+text = "Current Size"
+
+[node name="MaxSizeLabel" type="Label" parent="."]
+margin_left = -272.0
+margin_top = -377.0
+margin_right = -216.0
+margin_bottom = -363.0
+text = "Max Size"
+
+[node name="MaxSizeValue" type="Label" parent="."]
+margin_left = -212.0
+margin_top = -377.0
+margin_right = -156.0
+margin_bottom = -363.0
+text = "0"

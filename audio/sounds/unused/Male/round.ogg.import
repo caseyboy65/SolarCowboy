@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/round.ogg-0491a939bf25d451622cab52dc996241.oggstr"
+
+[deps]
+
+source_file="res://audio/sounds/unused/Male/round.ogg"
+dest_files=[ "res://.import/round.ogg-0491a939bf25d451622cab52dc996241.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

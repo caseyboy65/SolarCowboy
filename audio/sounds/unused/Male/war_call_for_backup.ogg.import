@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/war_call_for_backup.ogg-f4f1a272c59f06424e7a4a5eac4d2b9d.oggstr"
+
+[deps]
+
+source_file="res://audio/sounds/unused/Male/war_call_for_backup.ogg"
+dest_files=[ "res://.import/war_call_for_backup.ogg-f4f1a272c59f06424e7a4a5eac4d2b9d.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

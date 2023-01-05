@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/ethereal-world.mp3-a8b7ff1e5f4407d4dc8de6fe739cf3c7.mp3str"
+
+[deps]
+
+source_file="res://audio/music/ethereal-world.mp3"
+dest_files=[ "res://.import/ethereal-world.mp3-a8b7ff1e5f4407d4dc8de6fe739cf3c7.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

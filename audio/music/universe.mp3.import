@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/universe.mp3-56ce79463cfe2211c3531f5855745325.mp3str"
+
+[deps]
+
+source_file="res://audio/music/universe.mp3"
+dest_files=[ "res://.import/universe.mp3-56ce79463cfe2211c3531f5855745325.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

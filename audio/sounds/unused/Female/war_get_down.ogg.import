@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/war_get_down.ogg-7cd43427fd740eeba337da26fc8a3481.oggstr"
+
+[deps]
+
+source_file="res://audio/sounds/unused/Female/war_get_down.ogg"
+dest_files=[ "res://.import/war_get_down.ogg-7cd43427fd740eeba337da26fc8a3481.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

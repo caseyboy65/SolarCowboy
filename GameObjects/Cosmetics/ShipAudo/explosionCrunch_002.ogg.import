@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/explosionCrunch_002.ogg-fe887fd8dd59077425282962ce50685f.oggstr"
+
+[deps]
+
+source_file="res://GameObjects/Cosmetics/ShipAudo/explosionCrunch_002.ogg"
+dest_files=[ "res://.import/explosionCrunch_002.ogg-fe887fd8dd59077425282962ce50685f.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

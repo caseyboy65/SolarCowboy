@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/intergalactic.mp3-80aa18af7c930a395eb56ee409e2b836.mp3str"
+
+[deps]
+
+source_file="res://GameObjects/GameScenes/MainMenu/intergalactic.mp3"
+dest_files=[ "res://.import/intergalactic.mp3-80aa18af7c930a395eb56ee409e2b836.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
