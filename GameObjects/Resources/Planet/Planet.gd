@@ -10,6 +10,7 @@ var planet6 = preload("res://GameObjects/Resources/Planet/planet6.png")
 
 onready var sprite = get_node("Spin/Sprite")
 
+#test
 # Called when the node enters the scene tree for the first time.
 func _ready():
 	#ui.visible = false

@@ -2,10 +2,10 @@ extends Camera2D
 
 var moveSpeed : int = 5
 
-var zoomSpeed = .2
+var zoomSpeed = .5
 var zoomChange = Vector2(zoomSpeed, zoomSpeed)
 var zoomMin = Vector2(1, 1)
-var zoomMax = Vector2(3, 3)
+var zoomMax = Vector2(100, 100)
 var desiredZoom = zoom
 
 # Declare member variables here. Examples:
